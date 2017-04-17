@@ -34,7 +34,7 @@ https://www.google.cz/search?q=hippies&client=firefox-b-ab&tbm=vid&source=lnms&s
 https://giphy.com/search/hippie  
 
 Vizuální inspirace pro budoucí vzhled webu (weby, obrázky, designové prvky atp.)  
-blogy pro inspiraci (vzhled):
+blogy pro inspiraci (vzhled):  
 http://www.whitecollarhippie.com/  
 https://www.hippierunner.com/  
 http://all-that-is-interesting.com/hippie-communes  
